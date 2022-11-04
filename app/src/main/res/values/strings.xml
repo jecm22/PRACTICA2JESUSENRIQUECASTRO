@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Phones</string>
+    <string name="modelo">Modelo</string>
+    <string name="marca">Marca</string>
+    <string name="capacidad">Capacidad</string>
+    <string name="agregar">Agregar</string>
+    <string name="confirmacion">Confirmación</string>
+    <string name="seguroeliminar">¿Estas seguro de eliminar el registro %1$s?</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="exito">Exito</string>
+    <string name="error">Error</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="novacio">No puede estar vacio</string>
+    <string name="noHay">¡No hay registros!</string>
+    <string name="llenetodo">Porfavor llene todos los campos</string>
+    <string-array name="phones">
+        <item>Apple</item>
+        <item>Huawei</item>
+        <item>Samsung</item>
+    </string-array>
+</resources>
